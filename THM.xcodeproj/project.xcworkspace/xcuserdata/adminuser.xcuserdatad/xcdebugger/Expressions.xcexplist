@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[RestRequest perform:method:jsonData:className:error:]:RestRequest.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "method">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LogInViewController onFailedAuthentication]:LogInViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "error.message">
+            </PersistentString>
+            <PersistentString
+               value = "userNameField.text">
+            </PersistentString>
+            <PersistentString
+               value = "passwordField.text">
+            </PersistentString>
+            <PersistentString
+               value = "error">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SettingsViewController textFieldShouldReturn:]:SettingsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.alert.title">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SettingsViewController webServicesUrlEditingEnded:]:SettingsViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
